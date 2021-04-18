@@ -5,3 +5,9 @@
     background-size: cover;
 
 }
+.services{
+    text-align: center;
+    background-image: url(/images/backgrounds/back002.jpg);
+    background-size: cover;
+    color: white;
+}
