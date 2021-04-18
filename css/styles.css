@@ -50,9 +50,8 @@ html{
   padding-bottom: 30px;
   padding-top:40px;
 }
-#about{
-  color: white;
-}
+
+
 .services{
   text-align: center;
   background-image: url("/images/backgrounds/back002.jpg");
@@ -69,10 +68,8 @@ html{
   padding-bottom: 10%;
 }
 .what-we-do{
-  font-family: 'Quattrocento', serif;
   text-align: center;
   padding-top: 40px;
-  font-family: 'Gabriela', serif;
 }
 .what-we-do .headings{
   padding-bottom: 38px;
@@ -99,7 +96,6 @@ html{
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
-  /* text-align: center; */
 }
 .title{
   padding: 6px;
@@ -141,7 +137,6 @@ button{
 footer{
   text-align: center;
   padding-top: 30px;
-  font-family: 'Delius Swash Caps', cursive;
 }
 footer p{
   margin-top: 10px;
@@ -168,7 +163,6 @@ footer p{
   text-align: center;
   font-size: 30px;
   padding-top: 50%;
-  font-family: 'Delius Swash Caps', cursive;
 }
 @media only screen and (max-width: 755px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
