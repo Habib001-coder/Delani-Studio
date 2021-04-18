@@ -1,6 +1,7 @@
-h1{
-    text-align: center;
-}
 .intro{
     text-align: center;
+    background-image: url(/images/backgrounds/backgnd001.jpg);
+    color: white;
+    background-size: cover;
+
 }
