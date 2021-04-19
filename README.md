@@ -12,6 +12,6 @@ we used:
 * jQuery
 
 ## Link to the project
-
+https://habib001-coder.github.io/Delani-Studio/
 ## License
 * Copyright (c) 2021 **Abdallah Habib**
