@@ -79,7 +79,6 @@ $(document).ready(function(){
   $("#work8").mouseover(function(){
     $("#overlay8").show();
   }).mouseout(function(){
-    $("#overlay8").hide();
   });
 });
 
