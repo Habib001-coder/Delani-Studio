@@ -91,7 +91,7 @@
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: white;
+  color:white;
 }
 .title{
   padding: 6px;
@@ -248,8 +248,4 @@ footer p{
     width: 400px;
     margin: 20px;
   }
-  /* #portfolio{
-    margin-left:6%;
-    margin-right: 10%; 
-  }
-} */
+}
