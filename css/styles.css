@@ -1,5 +1,5 @@
 .intro{
-  background-image: url(/images/backgrounds/backgnd001.jpg);
+  background-image: url(../images/backgrounds/backgnd001.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -50,7 +50,7 @@
 
 .services{
   text-align: center;
-  background-image: url("/images/backgrounds/back002.jpg");
+  background-image: url("../images/backgrounds/back002.jpg");
   color: white;
   background-position: center;
   background-size: cover;
